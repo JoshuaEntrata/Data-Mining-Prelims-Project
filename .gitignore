@@ -1,1 +1,3 @@
-data/raw/FIES_2023_volume2.csv
+/data/raw
+/notebooks/temp
+/.venv
