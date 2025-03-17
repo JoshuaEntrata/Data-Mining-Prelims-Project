@@ -17,9 +17,8 @@ This project focuses on data mining techniques applied to the FIES dataset to ex
 
 - Download the zip file from this link: (gdrive link)
 - Extract the folder
-- Copy this file: `FIES PUF 2023 Volume2 Household Summary.CSV`
+- Copy all the files inside the extracted folder
 - Paste it into the `data/raw/` folder
-- Rename it to `FIES_2023_volume2.csv` for consistent import across scripts and notebooks
 
 ## Contribution Guide
 
