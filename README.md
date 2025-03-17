@@ -17,9 +17,8 @@ This project focuses on data mining techniques applied to the FIES dataset to ex
 
 - Download the zip file from this link: (gdrive link)
 - Extract the folder
-- Copy this file: `FIES PUF 2023 Volume2 Household Summary.CSV`
+- Copy all the files inside the extracted folder
 - Paste it into the `data/raw/` folder
-- Rename it to `FIES_2023_volume2.csv` for consistent import across scripts and notebooks
 
 ## Contribution Guide
 
@@ -42,21 +41,3 @@ This project focuses on data mining techniques applied to the FIES dataset to ex
 5. **Open a Pull Request (PR)** from your fork to the main repository.
 6. **Follow the PR template (if applicable)** and provide a clear description.
 7. **Request reviews** and address any feedback before merging.
-
-## Folder Structure
-
-```
-Data-Mining-Prelims-Project/
-│-- data/
-│   │-- raw/                 # Raw dataset files
-│   │-- processed/           # Cleaned and preprocessed dataset
-│-- notebooks/                # Jupyter Notebooks for EDA and modeling
-│-- scripts/                  # Python scripts for preprocessing, training, etc.
-│   │-- preprocess.py         # Data cleaning and transformation script
-│   │-- feature_engineering.py # Feature extraction scripts
-│   │-- train.py        # Model training script
-│   │-- evaluate.py     # Model evaluation script
-│-- models/                   # Saved trained models
-│-- README.md                 # Project documentation
-│-- .gitignore                # Ignored files for version control
-```
